@@ -1,0 +1,28 @@
+
+p{
+    font-family: 'Jost';
+    font-size: 30px;
+    padding: 80px 100px;
+
+}
+
+.green{
+    color: green;
+}
+b{
+    color: red;
+}
+.dooble{
+    text-decoration: overline underline;
+}
+.tittle{
+    font-size: 50px;
+    color: black;
+}
+#blue{
+    color: blue;
+}
+.other{
+
+    text-decoration: underline;
+}
