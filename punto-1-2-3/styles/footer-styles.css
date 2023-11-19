@@ -1,0 +1,47 @@
+footer{
+    display: flex;
+    background-color: #010851;
+    margin-top: 120px;
+    align-items: center;
+    padding: 20px 100px;
+    color: white;
+    justify-content: space-between;
+
+}
+.footer__info{
+    width: 34%;
+}
+
+form button {
+    background-color: #ED80FD;
+    color: white;
+    border:  none;
+}
+input{
+    padding: 12px;
+    width: 220px;
+    border-radius: 10px;
+    margin-right: -20px;
+    border: none;
+    background-color: #4548688c;
+}
+td a {
+    color: white;
+}
+
+th{
+    height: 80px;
+}
+
+td{
+    padding-right: 60px ;
+}
+
+tr{
+    height: 40px;
+}
+
+table{
+    font-family: 'Jost';
+    text-align: left;
+}
