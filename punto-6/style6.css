@@ -1,0 +1,29 @@
+
+div{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+a{
+    font-family: 'Jost';
+    font-size: 40px;
+
+}
+
+.marca{
+    color: yellow;
+    
+}
+
+.AS{
+    color: blueviolet;
+
+    
+}
+
+a:hover{
+color: blue;
+background-color: #fd8f54e2;
+border-radius: 10px;
+}
