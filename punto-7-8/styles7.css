@@ -1,0 +1,30 @@
+
+*{
+    margin: 0%;
+}
+
+nav{
+    background-color:rgba(137, 43, 226, 0.452);
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+a{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: blue;
+    padding: 10px;
+    transition: .5s;
+
+}
